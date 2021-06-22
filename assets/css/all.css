@@ -1,6 +1,36 @@
 .logo{
   height: 4rem ;
-
   margin-top: 1rem;
+}
 
+.img-contrucion{
+  margin-top: 2rem;
+  margin-left: 25rem;
+}
+
+.title2-area-dev{
+  margin-left: 36rem;
+
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 3rem;
+  color: chartreuse;
+}
+
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  margin-left: 45rem;
+  cursor: pointer;
+}
+
+.disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
 }
